@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Budget Tracker</string>
+    <style name="Theme.Amdhani.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#323232</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="windowSplashScreenIconBackgroundColor">#323232</item>
+        <item name="postSplashScreenTheme">@android:style/Theme.DeviceDefault.NoActionBar</item>
+    </style>
+</resources>

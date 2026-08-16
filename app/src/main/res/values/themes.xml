@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.Amdhani.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#323232</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="windowSplashScreenIconBackgroundColor">#323232</item>
+        <item name="postSplashScreenTheme">@android:style/Theme.DeviceDefault.NoActionBar</item>
+    </style>
+
+</resources>

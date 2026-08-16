@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sumesh.budgettracker.app-mergeDebugResources-45:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/transforms-4/db285a15d43baa1d9c211baf06071a81/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                }
+            ]
+        }
+    ]
+}
